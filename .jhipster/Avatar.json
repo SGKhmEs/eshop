@@ -1,0 +1,16 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "usersImage",
+            "fieldType": "byte[]",
+            "fieldTypeBlobContent": "image"
+        }
+    ],
+    "changelogDate": "20170525144606",
+    "entityTableName": "avatar",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceImpl"
+}
